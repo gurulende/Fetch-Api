@@ -1,0 +1,60 @@
+#posts{
+font-size: 18px;
+display: flex;
+flex-direction: column;
+
+
+}
+
+
+#todos{
+  font-size: 25px;
+  display: flex;
+flex-direction: column;
+}
+
+
+button {
+  padding: 10px 15px;
+  font-size: 85px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-left: 30px;
+}
+
+button:hover{
+  background-color: white;
+  border: 1px solid #007bff;
+  color: #007bff;
+
+}
+
+
+
+.post-title{
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 5px;
+ background-color: rgb(222, 215, 215);
+ display: flex;
+
+}
+
+.post-body {
+  font-size: 18px;
+  display: flex;
+}
+
+.todo-title{
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 5px;
+ background-color: rgb(222, 215, 215);
+ display: flex;
+
+
+}
+
